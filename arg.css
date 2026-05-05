@@ -1,10 +1,10 @@
-.argtxt,
-.argline {
+.firmargtxt,
+.firmargline {
   opacity: 0;
   transition: opacity 0.6s ease;
 }
 
-.argimg:hover .argtxt,
-.argimg:hover .argline {
+.firmargimg:hover .firmargtxt,
+.firmargimg:hover .firmargline {
   opacity: 1;
 }
