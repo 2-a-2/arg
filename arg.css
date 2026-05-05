@@ -1,10 +1,12 @@
 .firmargtxt,
-.firmargline {
+.firmargline,
+.firmargveil {
   opacity: 0;
   transition: opacity 0.6s ease;
 }
 
 .firmargimg:hover .firmargtxt,
-.firmargimg:hover .firmargline {
+.firmargimg:hover .firmargline,
+.firmargimg:hover .firmargveil {
   opacity: 1;
 }
