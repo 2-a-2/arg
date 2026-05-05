@@ -7,10 +7,9 @@
 }
 
 .firmargimg {
-  width: 370px;
-  height: 250px;
+  width: 300px;
+  height: 200px;
   border: 2px solid #ffffff;
-  background-image: url('https://2img.net/i.imgur.com/jIJADpb.jpeg');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -21,11 +20,11 @@
 
 .firmargtxt {
   position: absolute;
-  left: 40px;
-  right: 40px;
-  top: 145px;
+  left: 20px;
+  right: 20px;
+  bottom: 48px;
   color: #ffffff;
-  font-size: 11px;
+  font-size: 8.5px;
   text-transform: uppercase;
   letter-spacing: 0.7px;
   font-family: Arial, sans-serif;
@@ -39,9 +38,9 @@
 
 .firmargline {
   position: absolute;
-  left: 40px;
-  right: 40px;
-  bottom: 26px;
+  left: 18px;
+  right: 18px;
+  bottom: 24px;
   height: 1px;
   background: #ffffff;
   opacity: 0;
